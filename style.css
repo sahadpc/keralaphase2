@@ -1,0 +1,144 @@
+*{
+    padding: 0%;
+    margin: 0%;
+    font-family: 'Poppins', sans-serif;
+}
+header{
+    background-size: cover;
+    background-position: center;
+    
+}
+html{
+    scroll-behavior: smooth;
+}
+.img1{
+    width: 100%;
+    height: 640px;
+    
+}
+.logo{
+    background-color: black;
+    border-radius: 11px;
+    margin-top: 9px;
+    margin-left: 5px;
+    padding: 10px;
+    color: whitesmoke;
+    
+}
+
+.nav1{
+    display: flex;
+    position:absolute;
+}
+.btn{
+    font-weight: bolder;
+    color: white;
+    margin-top: 18px;
+
+    
+}
+.nav2{
+    margin-left:1000px;
+}
+.head{
+position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  font-size: 25px;
+}
+span{
+    color: white;
+}
+.dist{
+    color: darkslategray;
+    font-weight: bolder;
+    font-size: xx-large;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    margin-top: 50px;
+}
+.curudu{
+    display: flex;
+}
+.curudu1{
+    display: flex;
+    justify-content: center;
+}
+.card{
+    margin: 2px;
+}
+.container-fluid{
+    width: 100%;
+    height: 40rem;
+}
+.kunj{
+    font-size: xx-large;
+    text-align: center;
+    padding-top: 80px;
+    font-weight: bolder;
+}
+.kunja{
+    font-size: x-large;
+    font-weight: bold;
+    color: aliceblue;
+}
+.footer-basic {
+    padding:40px 0;
+    background-color:#ffffff;
+    color:#4b4c4d;
+  }
+  
+  .footer-basic ul {
+    padding:0;
+    list-style:none;
+    text-align:center;
+    font-size:18px;
+    line-height:1.6;
+    margin-bottom:0;
+  }
+  
+  .footer-basic li {
+    padding:0 10px;
+  }
+  
+  .footer-basic ul a {
+    color:inherit;
+    text-decoration:none;
+    opacity:0.8;
+  }
+  
+  .footer-basic ul a:hover {
+    opacity:1;
+  }
+  
+  .footer-basic .social {
+    text-align:center;
+    padding-bottom:25px;
+  }
+  
+  .footer-basic .social > a {
+    font-size:24px;
+    width:40px;
+    height:40px;
+    line-height:40px;
+    display:inline-block;
+    text-align:center;
+    border-radius:50%;
+    border:1px solid #ccc;
+    margin:0 8px;
+    color:inherit;
+    opacity:0.75;
+  }
+  
+  .footer-basic .social > a:hover {
+    opacity:0.9;
+  }
+  
+  .footer-basic .copyright {
+    margin-top:15px;
+    text-align:center;
+    font-size:13px;
+    color:#aaa;
+    margin-bottom:0;
+  }
